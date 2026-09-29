@@ -5,8 +5,8 @@ permalink: /support/
 
 # FocusBunny Support
 
-Email **[CONTACT EMAIL]**. We aim to reply within [REPLY TIME, e.g. two
-working days].
+Email **ttoeynattapon@gmail.com**. We aim to reply within two working
+days.
 
 ## Common questions
 

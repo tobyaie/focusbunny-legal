@@ -5,9 +5,9 @@ permalink: /terms/
 
 # FocusBunny Terms of Use
 
-**Draft — last updated 24 September 2026.**
+**Last updated 29 September 2026.**
 
-These terms are an agreement between you and [OWNER LEGAL NAME] ("we", "us")
+These terms are an agreement between you and Nattapon Aiemlaor ("we", "us")
 for the FocusBunny app. Apple's [Licensed Application End User License
 Agreement](https://www.apple.com/legal/internet-services/itunes/dev/stdeula/)
 also applies. If the two conflict, these terms apply to the extent the law
@@ -31,8 +31,8 @@ allows.
 - Premium gives unlimited focus-session starts, still one timer at a time.
   It is sold as an auto-renewing subscription through the App Store:
   **monthly** or **yearly**. Prices are shown in the app in your local
-  currency before you buy (for example £[MONTHLY PRICE] a month or
-  £[YEARLY PRICE] a year in the UK).
+  currency before you buy (for example £4.99 a month or
+  £29.99 a year in the UK).
 - **Payment and renewal.** Payment is charged to your Apple Account when you
   confirm the purchase. The subscription renews automatically at the same
   price for the same period unless you turn auto-renew off at least 24 hours
@@ -77,4 +77,4 @@ us in the 12 months before the claim.
 
 These terms are governed by the law of England and Wales, and the courts of
 England and Wales have jurisdiction. If you live elsewhere in the UK, you
-may also bring a claim where you live. Contact: [CONTACT EMAIL].
+may also bring a claim where you live. Contact: ttoeynattapon@gmail.com.
