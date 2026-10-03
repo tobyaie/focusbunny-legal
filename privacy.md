@@ -5,7 +5,7 @@ permalink: /privacy/
 
 # FocusBunny Privacy Policy
 
-**Last updated 29 September 2026.**
+**Last updated 3 October 2026.**
 
 FocusBunny is a study timer: you set a focus time and Bunny runs a marathon
 while you focus. This policy explains what the app collects, why, where it is
@@ -56,9 +56,8 @@ data.
 
 - **Account, timer data, carrots and pantry:** until you delete your
   account.
-- **Guest data that never signs in:** until [RETENTION PERIOD, e.g. 24
-  months] after the last use.
-- **Service and security logs:** up to [LOG RETENTION, e.g. 30 days].
+- **Guest data that never signs in:** until 24 months after the last use.
+- **Service and security logs:** up to 30 days.
 - **Subscription records:** as long as the law requires for accounting.
 
 ## Your choices and rights
